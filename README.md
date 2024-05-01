@@ -1,8 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Savinash+Sinnasamy+!;" />
 </h1>
-<h3 align="center">A passionate individual overwhelming in Java, Python, SQL, HTML, CSS and JavaScript 
-    Pursuing BEng(Hons) Software Engineering degree </h3>
+<h3 align="center">A passionate individual overwhelming in Java, Python, SQL, HTML, CSS and JavaScript <br> Pursuing BEng(Hons) Software Engineering degree </h3>
 <h4 align="center"> A level 6 undergraduate student </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savinashsinnasamy&label=Profile%20views&color=0e75b6&style=flat" alt="savinashsinnasamy" /> </p>
