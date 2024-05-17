@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **FormFlexa**
 
-- 🌱 I’m currently learning **Java Springboot, React Native, Apache Kafka, Next.js, PostgresSql**
+- 🌱 I’m currently learning **Java Springboot, React, React Native, Apache Kafka, Next.js, MongoDb**
 
 - 💬 Ask me about **Java, Python, HTML, CSS, JavaScript, PHP, SQL,**
 
